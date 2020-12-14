@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /plus/ad_js.php
+Disallow: /include
+Disallow: /templets
